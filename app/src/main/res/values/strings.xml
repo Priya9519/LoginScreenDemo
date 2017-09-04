@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginScreenDemo</string>
+    <string name="user_message">If you are not already a \n user on our site,click \n the button below to \n create account.</string>
+    <string name="forget_your_password">Forget Your Password ?</string>
+    <string name="register">REGISTER</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+</resources>
